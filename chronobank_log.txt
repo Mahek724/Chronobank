@@ -1,0 +1,3 @@
+User created: Test
+Account created: A1005 - Saving Account
+Account created: 101 - Loan Account
